@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734304862 source:c:\users\asus\documents\code block\belajarc\kel.13_final project perpustakaan\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<sstream>
+	<conio.h>
+	<windows.h>
+
